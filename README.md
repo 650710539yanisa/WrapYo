@@ -1,6 +1,6 @@
 # 🌯 WrapYo Ordering Web App
 
-## 🌟 Overview
+
 
 **WrapYo** is a modern food ordering web application designed for both
 customers and administrators. Customers can easily browse the menu,
@@ -8,20 +8,17 @@ add items to their cart, place orders, and pay via **QR Code**.
 Admins can manage orders, update payment statuses, and control menu
 availability — all through a clean, intuitive interface.
 
----
-
-## 📸 Screenshots
 
 <p align="center">
-  <img src="1.png" width="600px" alt="Menu Page"/>
+  <img src="Wrapyo-Project-main/1.png" width="600px" alt="Menu Page"/>
   <br/><br/>
-  <img src="2.png" width="600px" alt="Shopping Cart"/>
+  <img src="Wrapyo-Project-main/2.png" width="600px" alt="Shopping Cart"/>
   <br/><br/>
-  <img src="5.png" width="600px" alt="QR Code Payment"/>
+  <img src="Wrapyo-Project-main/5.png" width="600px" alt="QR Code Payment"/>
   <br/><br/>
-  <img src="3.png" width="600px" alt="Admin Orders"/>
+  <img src="Wrapyo-Project-main/3.png" width="600px" alt="Admin Orders"/>
   <br/><br/>
-  <img src="4.png" width="600px" alt="Admin Menu"/>
+  <img src="Wrapyo-Project-main/4.png" width="600px" alt="Admin Menu"/>
 </p>
 
 ---
