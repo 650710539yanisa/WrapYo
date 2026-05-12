@@ -27,20 +27,17 @@ availability — all through a clean, intuitive interface.
 
 ### 👤 Customer Side
 
-| Icon | Feature |
-|------|---------|
-| 📖 | Browse food menu from the web interface |
-| 🛒 | Add items to the shopping cart |
-| 📦 | Place orders and pay via **QR Code Payment** |
-| 🔍 | Track order status in real-time |
+- 📖 Browse food menu from the web interface  
+- 🛒 Add items to the shopping cart  
+- 📦 Place orders and pay via **QR Code Payment**  
+- 🔍 Track order status in real-time  
 
 ### 🧑‍💻 Admin Side
 
-| Icon | Feature |
-|------|---------|
-| 📋 | Manage all orders in the system |
-| 💳 | Toggle payment status (**Paid** / **Pending**) |
-| 🔄 | Update item availability (**Available** / **Out of Stock**) |
-| 🍽️ | Full control over the food menu |
+
+- 📋 Manage all orders in the system  
+- 💳 Toggle payment status (Paid / Pending)  
+- 🔄 Update item availability (Available / Out of Stock)  
+- 🍽️ Full control over the food menu  
 
 ---
