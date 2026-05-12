@@ -25,7 +25,7 @@ availability — all through a clean, intuitive interface.
 
 ## ✨ Features
 
-### 🧑‍🍳 Customer Side
+### 👤 Customer Side
 
 | Icon | Feature |
 |------|---------|
@@ -34,7 +34,7 @@ availability — all through a clean, intuitive interface.
 | 📦 | Place orders and pay via **QR Code Payment** |
 | 🔍 | Track order status in real-time |
 
-### 🛠️ Admin Side
+### 🧑‍💻 Admin Side
 
 | Icon | Feature |
 |------|---------|
@@ -44,9 +44,3 @@ availability — all through a clean, intuitive interface.
 | 🍽️ | Full control over the food menu |
 
 ---
-
-<div align="center">
-  <strong>🍔 Made with ❤️ by WrapYo Team</strong>
-  <br/>
-  <em>Wrap it. Order it. Love it.</em>
-</div>
