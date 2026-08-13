@@ -9,6 +9,13 @@ Admins can manage orders, update payment statuses, and control menu
 availability — all through a clean, intuitive interface.
 
 
+## 🌐 Live Demo
+
+👉 **[Try WrapYo Ordering Web App](https://effervescent-melomakarona-c73936.netlify.app/home_th)**
+
+You can access the deployed web application and try the ordering system directly from your browser.
+
+
 <p align="center">
   <img src="Wrapyo-Project-main/1.png" width="600px" alt="Menu Page"/>
   <br/><br/>
